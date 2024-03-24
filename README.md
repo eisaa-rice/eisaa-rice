@@ -1,5 +1,4 @@
 <h2 align="center">👋 Hi there, I'm Jesus Orozco! </h2>
-<p align="center">😄 My pronouns are he/him 🧔🏻‍♂️</p>
 <p align="center">🎓 Currently a junior studying Computer Science at the University of Michigan - Dearborn 🖥</p>
 <p align="center">💻 On the hunt for my debut internship to kickstart my software engineering journey 🧑🏻‍💻</p>
 <p align="center">💡 Interested in working on side projects in web and mobile development, but I'm open minded! 🎮</p>
