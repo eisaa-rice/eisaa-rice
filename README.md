@@ -8,7 +8,7 @@
   <a href="mailto: jesusoro@umich.edu" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/eisaa-orozco/">
+  <a href="https://www.linkedin.com/in/eisaa-rice/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >  
   </a> 
 </div>
