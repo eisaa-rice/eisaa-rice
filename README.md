@@ -31,8 +31,8 @@
   <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" alt="Framer Motion">
   <br/><br/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">  
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">  
-  <!-- <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"> --> 
+<!--   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">   -->
+<!--   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">  -->
 </p>
 
 <p align="center">Tools</p>
@@ -55,12 +55,13 @@
 <img src="" alt="">
 
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=eisaa-rice&theme=vue&include_all_commits=false&count_private=false)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=eisaa-rice&theme=vue)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=eisaa-rice&theme=vue&include_all_commits=false&count_private=false)<br/> -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eisaa-rice&theme=vue&include_all_commits=false&count_private=false&layout=compact)
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=eisaa-rice&theme=vue)<br/> -->
+
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eisaa-rice&theme=vue&include_all_commits=false&count_private=false&layout=compact) -->
+
 </div>
 
 <br/><br/>
