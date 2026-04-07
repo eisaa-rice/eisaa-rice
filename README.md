@@ -1,7 +1,14 @@
-<h2 align="center">👋🏻 hey there, i'm jésus orozco. </h2>
-<p align="center">🎓 currently a senior studying computer science at the university of michigan - dearborn 🧑🏻‍💻<p>
-<p align="center">🏠 born, raised, and currently based in detroit, michigan, as a first-generation student from a mexican household 🇲🇽<p>
-<p align="center">🏘️ member of shpe, colorstack, and google developer groups 🖥️<p>
+👋🏻 hola! i'm jésus orozco. i'm a **new-grad** software engineer based in **detroit** seeking my first professional role.
+
+
+i'm trying to work on projects involving the following:
+- [ ] HTML/CSS/JS _(current)_
+- [ ] Next.js
+- [ ] C# & .NET
+- [ ] Java & Spring Boot
+- [ ] some LLM API
+
+if you'd like to connect, you can find my email, linkedin, and portfolio site by the rest of my account details.
 
 <br>
 <div align="center">
