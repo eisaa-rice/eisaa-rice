@@ -1,14 +1,17 @@
-👋🏻 hola! i'm jésus orozco. i'm a **new-grad** software engineer based in **detroit** seeking my first professional role.
+## hola! i'm jésus orozco.
 
+🌮 born, raised, and based in **detroit**, i'm a **new grad software engineer** seeking my first professional role.
 
-i'm trying to work on projects involving the following:
-- [ ] HTML/CSS/JS _(current)_
+🎓 i recently graduated from the **university of michigan - dearborn** with a **computer science bachelor's degree**.
+
+👨🏻‍💻 i'm currently trying to work on projects involving the following:
+- [ ] HTML/CSS/JS
 - [ ] Next.js
 - [ ] C# & .NET
 - [ ] Java & Spring Boot
 - [ ] some LLM API
 
-if you'd like to connect, you can find my email, linkedin, and portfolio site by the rest of my account details.
+📫 if you'd like to connect, you can find my email, linkedin, and portfolio site by the rest of my account details.
 
 <br>
 <div align="center">
