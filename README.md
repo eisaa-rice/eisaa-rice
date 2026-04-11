@@ -9,6 +9,7 @@
 - [ ] Next.js
 - [ ] C# & .NET
 - [ ] Java & Spring Boot
+- [ ] Python & Django
 - [ ] some LLM API
 
 📫 if you'd like to connect, you can find my email, linkedin, and portfolio site by the rest of my account details.
