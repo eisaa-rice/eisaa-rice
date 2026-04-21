@@ -5,7 +5,7 @@
 🎓 i recently graduated from the **university of michigan - dearborn** with a **computer science bachelor's degree**.
 
 👨🏻‍💻 i'm currently trying to work on projects involving the following:
-- [ ] HTML/CSS/JS
+- [x] HTML/CSS/JS
 - [ ] Next.js
 - [ ] C# & .NET
 - [ ] Java & Spring Boot
