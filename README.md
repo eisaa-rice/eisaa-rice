@@ -5,13 +5,13 @@
 🎓 i recently graduated from the **university of michigan - dearborn** with a **computer science bachelor's degree**.
 
 👨🏻‍💻 i'm currently trying to work on projects involving the following:
-- [x] HTML/CSS/JS
+- [x] html/css/js
 - [x] react.js
-- [ ] Next.js
-- [ ] C# & .NET
-- [ ] Java & Spring Boot
-- [ ] Python & Django
-- [ ] some LLM API
+- [ ] next.js
+- [ ] c# & .net
+- [ ] java & spring boot
+- [ ] python & django
+- [ ] llm api
 
 📫 if you'd like to connect, you can find my email, linkedin, and portfolio site by the rest of my account details.
 
