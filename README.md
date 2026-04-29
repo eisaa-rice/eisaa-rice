@@ -6,6 +6,7 @@
 
 👨🏻‍💻 i'm currently trying to work on projects involving the following:
 - [x] HTML/CSS/JS
+- [x] react.js
 - [ ] Next.js
 - [ ] C# & .NET
 - [ ] Java & Spring Boot
