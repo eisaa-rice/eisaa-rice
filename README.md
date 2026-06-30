@@ -4,14 +4,10 @@
 
 🎓 i recently graduated from the **university of michigan - dearborn** with a **computer science bachelor's degree**.
 
-👨🏻‍💻 i'm currently trying to work on projects involving the following:
-- [x] html/css/js
-- [x] react.js
-- [ ] next.js
-- [ ] c# & .net
-- [ ] java & spring boot
-- [ ] python & django
-- [ ] llm api
+👨🏻‍💻 i'm currently trying to solidify my main tech stack as:
+- html + css + js + react.js + typescript
+- c# + .net
+- mysql/postgresql + sql
 
 📫 if you'd like to connect, you can find my email, linkedin, and portfolio site by the rest of my account details.
 
